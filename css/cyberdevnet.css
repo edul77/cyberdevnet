@@ -1,0 +1,20 @@
+h1 {
+    font-size: 40px;
+    color: black
+    
+
+}
+
+body {
+
+    background-color: rgb(231, 226, 226);
+}
+
+.menu {
+    
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin-right:auto
+      
+}
